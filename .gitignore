@@ -1,5 +1,7 @@
 pkg
 src
+*.log
+*.sig
 *.tgz
 *.tbz
 *.tar.gz
