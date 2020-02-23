@@ -8,6 +8,7 @@ src
 *.tar.bz2
 *.tar.xz
 *.tar.lzma
+*.tar.zst
 *.zip
 .*.swp
 .*.swo
